@@ -1,0 +1,6 @@
+framework module DZMeBookRead {
+  umbrella header "DZMeBookRead.h"
+
+  export *
+  module * { export * }
+}
